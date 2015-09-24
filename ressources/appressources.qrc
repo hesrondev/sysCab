@@ -1,0 +1,39 @@
+<RCC>
+    <qresource prefix="/">
+        <file>logIcons/add-32.png</file>
+        <file>logIcons/aleat_t.png</file>
+        <file>logIcons/aleat_tt.png</file>
+        <file>logIcons/arrow.png</file>
+        <file>logIcons/arrow2.png</file>
+        <file>logIcons/astuces.png</file>
+        <file>logIcons/classement.png</file>
+        <file>logIcons/emptyPanne.png</file>
+        <file>logIcons/exercices.png</file>
+        <file>logIcons/home.png</file>
+        <file>logIcons/id.png</file>
+        <file>logIcons/liste.png</file>
+        <file>logIcons/locked.png</file>
+        <file>logIcons/login.png</file>
+        <file>logIcons/next.png</file>
+        <file>logIcons/notes.png</file>
+        <file>logIcons/options.png</file>
+        <file>logIcons/p1.png</file>
+        <file>logIcons/p2.png</file>
+        <file>logIcons/p11.png</file>
+        <file>logIcons/p11_t.png</file>
+        <file>logIcons/p12_t.png</file>
+        <file>logIcons/p22.png</file>
+        <file>logIcons/p-aleat.png</file>
+        <file>logIcons/pause.png</file>
+        <file>logIcons/restart.png</file>
+        <file>logIcons/retry.png</file>
+        <file>logIcons/save.png</file>
+        <file>logIcons/start.png</file>
+        <file>logIcons/start_exo.png</file>
+        <file>logIcons/stop.png</file>
+        <file>logIcons/vider.png</file>
+        <file>logIcons/vider_t.png</file>
+        <file>fic/baseExos</file>
+        <file>fic/baseUsers.scb</file>
+    </qresource>
+</RCC>
