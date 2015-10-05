@@ -1,4 +1,4 @@
-# SysCab
+# A propos de SysCab
 Un simulateur de système de carburant d'un avion de chasse. 
 Le but est de développer un simulateur qui fonctionnerait comme un petit jeu avec des règles de manipulations.
 L'utilisateur a la possibilité de faire des parties libres ou de créer un compte pour sauvegarder ses tests.
